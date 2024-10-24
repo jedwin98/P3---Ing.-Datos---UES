@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ETLGamatronDW</Name>
-    <LastWriteTime>2024-10-24T00:18:10.7950674Z</LastWriteTime>
+    <LastWriteTime>2024-10-24T02:02:16.4439745Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,12 +13,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>FactFlight.dtsx</Name>
-      <LastWriteTime>2024-10-23T22:31:25.1736618Z</LastWriteTime>
+      <LastWriteTime>2024-10-24T00:18:37.6986567Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>FlightData.dtsx</Name>
-      <LastWriteTime>2024-10-24T00:18:07.4940488Z</LastWriteTime>
+      <Name>DataCrudaABase.dtsx</Name>
+      <LastWriteTime>2024-10-24T01:55:26.0661913Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
