@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ETLGamatronDW</Name>
-    <LastWriteTime>2024-10-24T04:20:31.6781427Z</LastWriteTime>
+    <LastWriteTime>2024-10-24T07:08:23.0282673Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -18,7 +18,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>DataCrudaABase.dtsx</Name>
-      <LastWriteTime>2024-10-24T04:06:02.9739769Z</LastWriteTime>
+      <LastWriteTime>2024-10-24T07:07:26.1185439Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
