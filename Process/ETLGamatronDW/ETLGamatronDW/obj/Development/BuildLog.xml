@@ -2,13 +2,23 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>ETLGamatronDW</Name>
-    <LastWriteTime>2024-10-23T19:13:32.662733Z</LastWriteTime>
+    <LastWriteTime>2024-10-24T00:18:10.7950674Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>DimAerolinea.dtsx</Name>
-      <LastWriteTime>2024-10-23T19:45:15.7509478Z</LastWriteTime>
+      <LastWriteTime>2024-10-23T21:22:36.0171352Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FactFlight.dtsx</Name>
+      <LastWriteTime>2024-10-23T22:31:25.1736618Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FlightData.dtsx</Name>
+      <LastWriteTime>2024-10-24T00:18:07.4940488Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

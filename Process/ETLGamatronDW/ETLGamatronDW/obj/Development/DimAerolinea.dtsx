@@ -11,8 +11,8 @@
   DTS:LocaleID="17418"
   DTS:ObjectName="DimAerolinea"
   DTS:PackageType="5"
-  DTS:VersionBuild="12"
-  DTS:VersionGUID="{B79F27FE-C408-4C40-9911-389E7334806B}">
+  DTS:VersionBuild="13"
+  DTS:VersionGUID="{A4F2A68A-5C1F-4E13-9E80-1BCB906265CC}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -65,7 +65,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC0BjGlgbH9r7WVdTDzGFWBBlgrGVIHar7MbKcQktf7WwAAAAAOgAAAAAIAACAAAADD0v/r6QCgaxKKmtQgRvs414oddcBDPQdO+B9P/nkruSAAAAChgz2PEuPq5Zhc5NKzSiSyOkSZpR+SbHwWoBfBQAYi3UAAAAAn2H34Xy3isOMQHBLSIz8ijpo9nhcJ8tBYcZN8iLNvdciK/sX/uB826UmVWo/nW4AT94GAej9Ldq4e7QA3pcmc</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABF/Fe9A2qWazgWImXrTPD9LkQePsdzm2bIykqcmDne3QAAAAAOgAAAAAIAACAAAAAqvPtV/TXqNW++kfA3MRVPzEvsMlYRPJrInHDm3LzYCSAAAACjRVXxvNwPEajkddyhG9alckwpDmwXEXXV5dzQF0/da0AAAADek4Ej3xq6DEOtneDHQy7H2qRzQn0hHskrKdy1a7Ex8gCwshjdSGmFvej12+RqHX+mhrrn0BfLVEm/FCCJ/QVe</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -86,7 +86,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{EDCF99E8-CF76-4EE7-957C-9DA361223E76}"
-          SQLTask:SqlStatementSource="Delete DimAerolinea" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="Delete DimAerolinea;&#xA;dbcc checkident('DimAerolinea', RESEED, 0);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
