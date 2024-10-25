@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\DataCrudaABase.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
-      "RelativeMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|solutionrelative:ETLGamatronDW\\DataCrudaABase.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\FactFlight.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
-      "RelativeMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|solutionrelative:ETLGamatronDW\\FactFlight.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+      "AbsoluteMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\ETLPrincipal.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|solutionrelative:ETLGamatronDW\\ETLPrincipal.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\DimAerolinea.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
       "RelativeMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|solutionrelative:ETLGamatronDW\\DimAerolinea.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\FactFlight.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{DF73B519-4BEB-47EB-9CE4-B81390409B5B}|ETLGamatronDW\\ETLGamatronDW.dtproj|solutionrelative:ETLGamatronDW\\FactFlight.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,37 +27,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataCrudaABase.dtsx [Design]",
-              "DocumentMoniker": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\DataCrudaABase.dtsx",
-              "RelativeDocumentMoniker": "ETLGamatronDW\\DataCrudaABase.dtsx",
-              "ToolTip": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\DataCrudaABase.dtsx [Design]",
-              "RelativeToolTip": "ETLGamatronDW\\DataCrudaABase.dtsx [Design]",
+              "Title": "ETLPrincipal.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\ETLPrincipal.dtsx",
+              "RelativeDocumentMoniker": "ETLGamatronDW\\ETLPrincipal.dtsx",
+              "ToolTip": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\ETLPrincipal.dtsx [Design]",
+              "RelativeToolTip": "ETLGamatronDW\\ETLPrincipal.dtsx [Design]",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-10-24T00:23:15.378Z",
+              "WhenOpened": "2024-10-25T04:55:02.288Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FactFlight.dtsx [Design]",
-              "DocumentMoniker": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\FactFlight.dtsx",
-              "RelativeDocumentMoniker": "ETLGamatronDW\\FactFlight.dtsx",
-              "ToolTip": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\FactFlight.dtsx [Design]",
-              "RelativeToolTip": "ETLGamatronDW\\FactFlight.dtsx [Design]",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-10-23T21:41:15.749Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DimAerolinea.dtsx [Design]",
               "DocumentMoniker": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\DimAerolinea.dtsx",
               "RelativeDocumentMoniker": "ETLGamatronDW\\DimAerolinea.dtsx",
               "ToolTip": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\DimAerolinea.dtsx [Design]",
               "RelativeToolTip": "ETLGamatronDW\\DimAerolinea.dtsx [Design]",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
-              "WhenOpened": "2024-10-23T18:33:54.057Z",
+              "WhenOpened": "2024-10-24T22:08:55.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FactFlight.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\FactFlight.dtsx",
+              "RelativeDocumentMoniker": "ETLGamatronDW\\FactFlight.dtsx",
+              "ToolTip": "C:\\Users\\Edwin\\Desktop\\P3 Ing Datos UES\\P3-Ing.-Datos-UES\\Process\\ETLGamatronDW\\ETLGamatronDW\\FactFlight.dtsx [Design]",
+              "RelativeToolTip": "ETLGamatronDW\\FactFlight.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-25T00:47:18.695Z",
               "EditorCaption": " [Design]"
             }
           ]
