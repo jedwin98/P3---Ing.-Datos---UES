@@ -11,8 +11,8 @@
   DTS:LocaleID="17418"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="4"
-  DTS:VersionGUID="{B8AEA9D9-D140-4FF7-A927-1D0A866B06DE}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{89C7B93C-273C-44D1-A5C1-7D26AB61AA0F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADcpOvVnMYq/GpVZj2sRljftByFlELDCB0EnNmWsKDI0wAAAAAOgAAAAAIAACAAAACfUQ/ljIiGbRRutIpBS8rk7lF94kONwsVyNLrr0f8MtSAAAAD/E0KTLpvdWXncR+LxKGIDy241CwaYdDBO8W8e1CKP0kAAAABro1ASplp/l83JO6aDMd5vVVLTv2VZ2MoSGqBALL7JNmSzvGevHonabbzojWtCymMzntLM6CewwN+FdQ2P0Ukz</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD5VTsmbBX02N1jZKctU/wdOnzaotXwBU6vlw8nJXlbnwAAAAAOgAAAAAIAACAAAABWqz0JW1QNUoV+YDbnlmgiOYdvZZE5pZ6yMXq1NGiQqSAAAADGw1zy3h+ZG2rajQkJ2hAKa5+zKi74W8BoKkvdMnJirEAAAADS5hBRZkXZrFcDtYrSBEPBcI0qmzuKovksvcJnW54V4kpUC+HLwRVrUDQuH+B7G5oSi8ku1rlQVB3mRkx39uQK</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -52,23 +52,6 @@
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\Execute SQL Task"
-      DTS:CreationName="Microsoft.ExecuteSQLTask"
-      DTS:Description="Execute SQL Task"
-      DTS:DTSID="{F1796D5A-8ABA-4246-8F51-DC516A701826}"
-      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Execute SQL Task"
-      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{C2421446-3E53-450E-9989-000C7B85F4CA}"
-          SQLTask:SqlStatementSource="Delete FactFlight" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
       DTS:refId="Package\FactFlights"
       DTS:CreationName="Microsoft.ExecutePackageTask"
       DTS:Description="Execute Package Task"
@@ -85,6 +68,23 @@
         </ExecutePackageTask>
       </DTS:ObjectData>
     </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Limpieza FactFlight"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{F1796D5A-8ABA-4246-8F51-DC516A701826}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Limpieza FactFlight"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{C2421446-3E53-450E-9989-000C7B85F4CA}"
+          SQLTask:SqlStatementSource="Delete FactFlight" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -99,7 +99,7 @@
       DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
       DTS:CreationName=""
       DTS:DTSID="{94D80D1C-AF64-4929-A913-856E580DFE1B}"
-      DTS:From="Package\Execute SQL Task"
+      DTS:From="Package\Limpieza FactFlight"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
       DTS:To="Package\DimAerolinea" />
@@ -120,6 +120,10 @@
           Size="145,42"
           Id="Package\DimAerolinea"
           TopLeft="372,302" />
+        <NodeLayout
+          Size="174,42"
+          Id="Package\Limpieza FactFlight"
+          TopLeft="268,203" />
         <NodeLayout
           Size="133,42"
           Id="Package\FactFlights"
@@ -158,19 +162,15 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="170,42"
-          Id="Package\Execute SQL Task"
-          TopLeft="268,203" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="353,245">
+          TopLeft="355,245">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="91.5,57"
+              EndConnector="89.5,57"
               Start="0,0"
-              End="91.5,49.5">
+              End="89.5,49.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -181,13 +181,13 @@
                     Point2="0,28.5"
                     Point3="4,28.5" />
                   <mssgle:LineSegment
-                    End="87.5,28.5" />
+                    End="85.5,28.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="87.5,28.5"
-                    Point2="91.5,28.5"
-                    Point3="91.5,32.5" />
+                    Point1="85.5,28.5"
+                    Point2="89.5,28.5"
+                    Point3="89.5,32.5" />
                   <mssgle:LineSegment
-                    End="91.5,49.5" />
+                    End="89.5,49.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

@@ -11,8 +11,8 @@
   DTS:LocaleID="17418"
   DTS:ObjectName="DimAerolinea"
   DTS:PackageType="5"
-  DTS:VersionBuild="20"
-  DTS:VersionGUID="{79B82DEF-AF5F-42A3-8ED4-D77A514C2C5F}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{F2BD2C2C-A8FD-4481-BD31-D2AC9D594D45}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -65,7 +65,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACQHDM1Tul59+vdffdYoIdyxRgpRVFEpyjy+WY09KZMbgAAAAAOgAAAAAIAACAAAABxVGqB/DFEGxJvDjWPh6catQ0sNyPu6MjOQaazNoBE9iAAAAD5ECE0KgPwW6FJlR2Rbo6xU/9Nq/AO5BgRCx+YgAeSFkAAAADaKVKcxwDAxCT/8esDWl73fi4fmsL1p1OHhfURMdTu7uyrZ/2Sv1QFRv609QmMsF5DmjB5TJEyxJrW5mpY4vU4</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAW5QxU+Bty98vR2TNkZ09sdZThnXbKSh4rz2ftVqH8RQAAAAAOgAAAAAIAACAAAAAFvmqYArcA6982yDfJENocBbHiFEwu6NzE9TJoo+LMSiAAAAAq60YVV54zuAzQWWGLem1AK9DjMqoWiG+h20asKFU0k0AAAACoz6qR5XMqGJNphehCPjIz+RZDr+U2eq51OUeQC/0dDnp166zUz9jzwt2gzko64ApZWHPEeo7YnlmqHR3B4jUM</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -415,7 +415,7 @@
     design-time-name="Package\Llenado de Dim Aerolinea">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="208,42"
           Id="Package\Llenado de Dim Aerolinea\Lectura de AerolineasCSV"
@@ -455,9 +455,7 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>

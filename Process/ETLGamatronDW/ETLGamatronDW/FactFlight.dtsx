@@ -11,8 +11,8 @@
   DTS:LocaleID="17418"
   DTS:ObjectName="FactFlights"
   DTS:PackageType="5"
-  DTS:VersionBuild="27"
-  DTS:VersionGUID="{8807D383-AD8B-4938-9B91-0A27751D45D7}">
+  DTS:VersionBuild="29"
+  DTS:VersionGUID="{B7FD3F8B-ACB0-4A51-9866-E4A9FEB2F319}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAeYB0L2bRBNPGKzKlCNEGmQyTmLTEyVUwGO+bp1J5KAwAAAAAOgAAAAAIAACAAAAB+PCZ23j2Bh9SeL/hmnHLEPvTve5jxRi/OOEEQ2wj6dSAAAABzatd1mb3fREUo+1FZpjju32AwsBkRvf9qDTEcyp4ysEAAAABgTYbReaypAwqny003CTLzFK/FVlkLV+DoADr3EBHbxEbsaJ6IA3g8Nq/hw7FPJhxkK5OPNdcf1uJUCST58Xjl</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADeN/nul//d7DQ0S6Xaeob2//F9PocfC86p1fOiB55ArAAAAAAOgAAAAAIAACAAAABuDRjHya3tx7+VNTf1p07nt/43JV6Vpbl8IDU+UxV8JCAAAAC+Y1lAuakohu2Wfir5lhikYok6dsC5mUVK7nh3kko3C0AAAABTozgPLFZ8Fsb1LU6jmmCULupsrD9Bued9dCM/o6JL2cmQK2rNn2gxNncBVAvaPzmRZwe5b//9FCBCXWy9/iUb</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABMIofof7D8/IfTNnkRFbYrXWCrI7tdVkI2thXpi98ZRwAAAAAOgAAAAAIAACAAAABCxESevEtzeHWkTd+kVyne33rT1qwbH8O/sMrmmvtjdiAAAACWTmj5Lf4H08AHIumh8i9EUjGm/hNuVURSJmJxbJdwMEAAAABL49zqDha1+e5ukV69rnzOuvBYKDHJaN+tgzmI3fKQwFoitghX5kGXRtJcMtAxBUeM+CBQV0xbuUIlupov3si0</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAdANxR/HkNdDfc7Ze1b4Cf39eYSnc8R7VgnO3/sainhAAAAAAOgAAAAAIAACAAAACdnjGmn1ROYKLWLBYTIG7ijMMb/bnecgZ6J/dCSt2D7iAAAAArjRE/sjrSj7lXombZIfmv/Nh5u+8fJZwBZPNZbX0VwUAAAADASHj20eJuSFmNyHA91OionT5FzQWZ34VxcOJNF8mdY1mU5fA1udFPNLyM/ean+Kr51/28Zp56zBIdoFpTQ5Og</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAATMljfIiM7UC7IpXzmJItQvt3ALCE8h1HhFVRB+32PXgAAAAAOgAAAAAIAACAAAADHoAftasiBtqxSRHVX2gd6a3Z8FYY22Wz0TWe1WKau7iAAAACxgMF/2hPg9pR8jPIkhtSbKOnv4gXsnbERDOumFZH6cUAAAABz6o7eMCMTNz1AVEcKkquf6Y4BLYSVhlaFzShno0A/oDlCVeZmjubiX3OXD8FwNWvGE3s532xGgHINOY86tinJ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD24hc048g6ojngVzqzypSrKQq5gD/wRxRgGGzVNIN31wAAAAAOgAAAAAIAACAAAACDLlzsHo+aaEAQdMGa0SSJJrnhnybhd/SsSG7IeFDhoyAAAADdgfki9znwLrDxP9qxhClu9Wz4d9F63ZkeutNe72yxV0AAAAD5HRrijIqaYdG1hPyFkw+K+XPsVgbFlnEDZlvo7INakhDLDeXrxxtF+wdupkzwLeLMJ5FV3QBCrp64bK8wFBYQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -74,7 +74,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADEaU42KOXu0qjhJ/KRh+ZEb85KAtPpSZX1gc8ztBx4+gAAAAAOgAAAAAIAACAAAADeSYq2S7bbyiGFi3nZt4IhWpFa0T1lVKDZaOkBQBGJ+SAAAAB+HzF21h38LI6cVQu1nm6DkfRttj21w15WOb6SDG7w6kAAAAAgYgQnDm1u2sBQqDfSi0tq0+Fnh03ZPu/pWaDGbA3DwcLj0zrZo/smSgEge0sB5m13QVyuMpiGEdLkYSCakQcZ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAALnToYu4QeJNOmHuCK9gB3pYUgpo7s2mgsLJ9r3Zq1vgAAAAAOgAAAAAIAACAAAABeyj3OkffnWXCnX0l08p+YK9OBhEjiRr46y4JZSMqIYSAAAADnYCVlBOE3jvxyE6rSJj7jGD6JAdyAWJL5xGzXvrCQCUAAAAD894wNIHkonWQQMZN2AGjuMVdusMboLhX1dLH1idHujCGvVUI2dan5rxWB3U0muT30cE+8dGEAC52fYT36klMs</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -91,7 +91,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACicZlWeV5G4sQXwisLfVbjcZMV6OJod/dJ/ctOYpTdMwAAAAAOgAAAAAIAACAAAAAqMz4Diyfb1/qD8zxeXjt92UqePqvAyEggu70MvKO25CAAAAAYDDtRHmtnYLqaPxDL1VdZMfDQQX8KDaCrG+hu9TQym0AAAABJGuOfG8qVtpXnn6qHhh7G+HL9X9Ck/710tcJbvDKPh9OsD4228aBRJf060DJh0LCMGE5Hv4sZszGLBoGXsdDQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACS/2N4jSf7edw921sAYI2lI690lCwUobO/Dfu9RdTkHAAAAAAOgAAAAAIAACAAAACrw7exkAGjlfM2XLUoW8e5jNpRsE1SgOzfwxUQBEkewSAAAACmwXNe0K87FYYqEF+IaufejSF+XKQMkC8LHiBvMC4O2EAAAAAEgaLVpJTDZn35nJnbP5nZCGPx0Kf2EpR1ZwKD0mSIvJTqtCDXGLe/6cBoPG4r6373sXTqtAgRBARjjGk5PyFF</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -108,7 +108,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB7Q79x/YByCEgywud2ETzrDj4LobB85ayQaUBF98ntigAAAAAOgAAAAAIAACAAAACRPahM3k3emtCjBk4YdMuxa9x3G9tN/V/5hMbsWzS4wiAAAABIy6lYEW3wtotSA67PDpL6cZuyezE6G4VbNKpyZIFXS0AAAAC9DuR5GFO0mfHhYCiYeoa+frJM9QEGGiecwx/8JadVgasQQXTDVxRdBmsotPoUl3tyyCQxbpvkBe61xDeaEdlV</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6/WwSV+6vES8pOBgHMSoDQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABdOh4BGwHMbOUjytgvg/yJK9WpgFmfbKqpfwxM/3LTswAAAAAOgAAAAAIAACAAAABkDHsqqPTjd9LCzgt/CyhsTzhlumEse4gFY7p6mrP1TiAAAABDieCSZYeSB5OoS+gs6iSPkyRrDhPfET6E4iWalTuXkkAAAAAGeRt1nJx1uqYmzbpChyXj3wzSaptksVuAYYhwme0JlX9FDaVdCRsa9T8aqQSFfxlP2Ui1Cq1qTA0sqWDgEWOS</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -3515,6 +3515,42 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
           Id="Package\Transferencia de Base Auxiliar 1 a FactFlight\Data Conversion DT_NTEXT a DT_WSTR"
           TopLeft="133,165" />
         <EdgeLayout
+          Id="Package\Transferencia de Base Auxiliar 1 a FactFlight.Paths[Lookup Match Output1]"
+          TopLeft="503.5,498">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177,80"
+              Start="0,0"
+              End="177,72.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,36" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,36"
+                    Point2="0,40"
+                    Point3="4,40" />
+                  <mssgle:LineSegment
+                    End="173,40" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173,40"
+                    Point2="177,40"
+                    Point3="177,44" />
+                  <mssgle:LineSegment
+                    End="177,72.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="40.30861328125,45,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package\Transferencia de Base Auxiliar 1 a FactFlight.Paths[Lookup Match Output]"
           TopLeft="451.5,393">
           <EdgeLayout.Curve>
@@ -3652,42 +3688,6 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Transferencia de Base Auxiliar 1 a FactFlight.Paths[Lookup Match Output1]"
-          TopLeft="503.5,498">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177,80"
-              Start="0,0"
-              End="177,72.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,36" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,36"
-                    Point2="0,40"
-                    Point3="4,40" />
-                  <mssgle:LineSegment
-                    End="173,40" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173,40"
-                    Point2="177,40"
-                    Point3="177,44" />
-                  <mssgle:LineSegment
-                    End="177,72.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="40.30861328125,45,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
@@ -3715,7 +3715,7 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -3746,7 +3746,7 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -3759,17 +3759,25 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="252,42"
-          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Lectura de GamatronFlightCSVDos"
-          TopLeft="154,70" />
+          Size="219,42"
+          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Escritura en tabla de Errores"
+          TopLeft="280,499" />
         <NodeLayout
           Size="278,42"
           Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Busqueda llave Surrogada DimAerolinea"
           TopLeft="509,378" />
         <NodeLayout
+          Size="189,42"
+          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Escritura en FactFlight"
+          TopLeft="803,611" />
+        <NodeLayout
           Size="268,42"
           Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Busqueda llave Surrogada DimTiempo"
           TopLeft="677,490" />
+        <NodeLayout
+          Size="252,42"
+          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Lectura de GamatronFlightCSVDos"
+          TopLeft="154,70" />
         <NodeLayout
           Size="272,42"
           Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Data Conversion DT_WSTR a DT_STR"
@@ -3778,6 +3786,78 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
           Size="286,42"
           Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Data Conversion DT_NTEXT a DT_WSTR"
           TopLeft="293,193" />
+        <EdgeLayout
+          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight.Paths[Lookup No Match Output]"
+          TopLeft="603,420">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-213.5,79"
+              Start="0,0"
+              End="-213.5,71.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.8712446351931" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,27.8712446351931"
+                    Point2="0,31.8712446351931"
+                    Point3="-4,31.8712446351931" />
+                  <mssgle:LineSegment
+                    End="-209.5,31.8712446351931" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-209.5,31.8712446351931"
+                    Point2="-213.5,31.8712446351931"
+                    Point3="-213.5,35.8712446351931" />
+                  <mssgle:LineSegment
+                    End="-213.5,71.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-162.55638671875,36.8712446351931,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight.Paths[Lookup Match Output1]"
+          TopLeft="811,532">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="86.5,79"
+              Start="0,0"
+              End="86.5,71.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,35.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,35.5"
+                    Point2="0,39.5"
+                    Point3="4,39.5" />
+                  <mssgle:LineSegment
+                    End="82.5,39.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="82.5,39.5"
+                    Point2="86.5,39.5"
+                    Point3="86.5,43.5" />
+                  <mssgle:LineSegment
+                    End="86.5,71.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-4.94138671875,44.5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Transferencia de Base Auxiliar 2 a FactFlight.Paths[Lookup Match Output]"
           TopLeft="648,420">
@@ -3916,91 +3996,11 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="189,42"
-          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Escritura en FactFlight"
-          TopLeft="803,611" />
-        <EdgeLayout
-          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight.Paths[Lookup Match Output1]"
-          TopLeft="811,532">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="86.5,79"
-              Start="0,0"
-              End="86.5,71.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,35.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,35.5"
-                    Point2="0,39.5"
-                    Point3="4,39.5" />
-                  <mssgle:LineSegment
-                    End="82.5,39.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="82.5,39.5"
-                    Point2="86.5,39.5"
-                    Point3="86.5,43.5" />
-                  <mssgle:LineSegment
-                    End="86.5,71.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-4.94138671875,44.5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="219,42"
-          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight\Escritura en tabla de Errores"
-          TopLeft="280,499" />
-        <EdgeLayout
-          Id="Package\Transferencia de Base Auxiliar 2 a FactFlight.Paths[Lookup No Match Output]"
-          TopLeft="603,420">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-213.5,79"
-              Start="0,0"
-              End="-213.5,71.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,27.8712446351931" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,27.8712446351931"
-                    Point2="0,31.8712446351931"
-                    Point3="-4,31.8712446351931" />
-                  <mssgle:LineSegment
-                    End="-209.5,31.8712446351931" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-209.5,31.8712446351931"
-                    Point2="-213.5,31.8712446351931"
-                    Point3="-213.5,35.8712446351931" />
-                  <mssgle:LineSegment
-                    End="-213.5,71.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-162.55638671875,36.8712446351931,111.6127734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Transferencia de Base Auxiliar 2 a FactFlight\Lectura de GamatronFlightCSVDos">
+    design-time-name="Package\Transferencia de Base Auxiliar 2 a FactFlight\Escritura en tabla de Errores">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4013,35 +4013,12 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
         <Value
           type="q3:string">[dbo].[DimAerolinea]</Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Transferencia de Base Auxiliar 2 a FactFlight\Busqueda llave Surrogada DimTiempo">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string">[dbo].[DimTiempo]</Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
@@ -4062,7 +4039,30 @@ try_cast(LateAircraftDelay as float)&gt;0.00</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Transferencia de Base Auxiliar 2 a FactFlight\Escritura en tabla de Errores">
+    design-time-name="Package\Transferencia de Base Auxiliar 2 a FactFlight\Busqueda llave Surrogada DimTiempo">
+    <Properties>
+      <Property>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:string">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string">[dbo].[DimTiempo]</Value>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q4:string">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Transferencia de Base Auxiliar 2 a FactFlight\Lectura de GamatronFlightCSVDos">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
